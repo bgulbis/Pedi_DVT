@@ -22,8 +22,10 @@ edw_pie <- concat_encounters(id$pie.id)
 #   * Diagnosis Codes (ICD-9/10-CM) - All
 #   * Labs - Coags
 #   * Labs - Renal
-#   * Measures (Height and Weight)
+#   * Measures (Height and Weight) - Pedi
 #   * Medications - Home and Discharge - All
+#   * Medications - Inpatient Continuous - Prompt
+#       - parenteral nutrition solution; parenteral nutrition solution w/ lytes
 #   * Medications - Intermittent - Prompt
-#       - enoxaparin
+#       - enoxaparin; parenteral nutrition solution; parenteral nutrition solution w/ lytes
 #   * Radiology Reports
